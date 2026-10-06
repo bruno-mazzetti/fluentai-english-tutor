@@ -81,7 +81,7 @@ Directly steer your learning session with one click:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/fluentai-english-tutor.git
+   git clone https://github.com/bruno-mazzetti/fluentai-english-tutor.git
    cd fluentai-english-tutor
    ```
 
